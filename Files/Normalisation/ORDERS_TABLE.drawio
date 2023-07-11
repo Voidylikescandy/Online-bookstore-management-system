@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2023-05-13T05:56:08.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="yUbSp6VkhN6PRXl5L2ue" version="21.2.9">
+  <diagram name="Page-1" id="MqEHJxqcGR0iH7Ui8UXM">
+    <mxGraphModel dx="1900" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JPP7-0GU8lm2cm0_T6wu-33" target="JPP7-0GU8lm2cm0_T6wu-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JPP7-0GU8lm2cm0_T6wu-33" target="JPP7-0GU8lm2cm0_T6wu-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JPP7-0GU8lm2cm0_T6wu-33" target="JPP7-0GU8lm2cm0_T6wu-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JPP7-0GU8lm2cm0_T6wu-33" target="JPP7-0GU8lm2cm0_T6wu-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-33" value="&lt;b&gt;&lt;u&gt;order_id&lt;/u&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-34" value="invoice_no" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-35" value="order_date" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-36" value="order_status" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-37" value="username" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

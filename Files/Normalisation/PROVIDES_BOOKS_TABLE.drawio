@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" modified="2023-05-13T06:31:44.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nTirbIk2xwJz2Zoch1RG" version="21.3.0">
+  <diagram name="Page-1" id="MqEHJxqcGR0iH7Ui8UXM">
+    <mxGraphModel dx="1000" dy="-1650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-165" value="supplier_id" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=5;fontFamily=Courier New;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="60" y="2990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-166" value="warehouse_id" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=5;fontFamily=Courier New;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="180" y="2990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-167" value="book_ISBN" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="300" y="2990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-168" value="amount" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="420" y="2990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-169" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="120" y="2960" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-170" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JPP7-0GU8lm2cm0_T6wu-169" target="JPP7-0GU8lm2cm0_T6wu-167" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="3070" as="sourcePoint" />
+            <mxPoint x="340" y="3020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="2940" />
+              <mxPoint x="300" y="2960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JPP7-0GU8lm2cm0_T6wu-171" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JPP7-0GU8lm2cm0_T6wu-169" target="JPP7-0GU8lm2cm0_T6wu-168" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="2970" as="sourcePoint" />
+            <mxPoint x="370" y="3000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="2940" />
+              <mxPoint x="310" y="2970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
